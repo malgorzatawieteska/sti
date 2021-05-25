@@ -1,0 +1,16 @@
+C:\Users\Gosia\source\repos\STI\STI\bin\Debug\STI.exe.config
+C:\Users\Gosia\source\repos\STI\STI\bin\Debug\STI.exe
+C:\Users\Gosia\source\repos\STI\STI\bin\Debug\STI.pdb
+C:\Users\Gosia\source\repos\STI\STI\obj\Debug\STI.csprojResolveAssemblyReference.cache
+C:\Users\Gosia\source\repos\STI\STI\obj\Debug\STI.Form1.resources
+C:\Users\Gosia\source\repos\STI\STI\obj\Debug\STI.Properties.Resources.resources
+C:\Users\Gosia\source\repos\STI\STI\obj\Debug\STI.csproj.GenerateResource.Cache
+C:\Users\Gosia\source\repos\STI\STI\obj\Debug\STI.csproj.CoreCompileInputs.cache
+C:\Users\Gosia\source\repos\STI\STI\obj\Debug\STI.exe
+C:\Users\Gosia\source\repos\STI\STI\obj\Debug\STI.pdb
+C:\Users\Gosia\source\repos\STI\STI\bin\Debug\Database1.mdf
+C:\Users\Gosia\source\repos\STI\STI\bin\Debug\Database1_log.ldf
+C:\Users\Gosia\source\repos\STI\STI\obj\Debug\STI.Form2.resources
+C:\Users\Gosia\source\repos\STI\STI\obj\Debug\STI.Klient.resources
+C:\Users\Gosia\source\repos\STI\STI\obj\Debug\STI.Produkt.resources
+C:\Users\Gosia\source\repos\STI\STI\obj\Debug\STI.Zamówienia.resources
